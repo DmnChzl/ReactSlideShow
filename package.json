@@ -9,7 +9,7 @@
     "build": "compile && react-scripts build"
   },
   "dependencies": {
-    "chart.js": "~2.9.0",
+    "chart.js": "~2.9.4",
     "highlight.js": "~10.0.0",
     "marked": "~1.1.0",
     "react": "~16.13.0",
