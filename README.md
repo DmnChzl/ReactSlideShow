@@ -18,7 +18,7 @@ SlideShow Support For The **React** Framework Made With RevealJS (FR)
 Repository:
 
 ```
-git clone https://github.com/MrDoomy/ReactSlideShow.git
+git clone https://github.com/DmnChzl/ReactSlideShow.git
 ```
 
 Dependencies:

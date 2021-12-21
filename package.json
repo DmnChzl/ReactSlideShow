@@ -2,7 +2,7 @@
   "name": "slideshow",
   "version": "1.1.1",
   "description": "SlideShow Support For The React Framework Made With RevealJS",
-  "author": "Damien Chazoule",
+  "author": "Damien Chazoule <damien.chazoule@gmail.com>",
   "scripts": {
     "compile": "sass src/assets/css/index.scss src/assets/css/index.css --no-source-map --style compressed",
     "start": "react-scripts start",

@@ -37,10 +37,6 @@ const ROWS = [
     link: 'https://developer.mozilla.org/'
   },
   {
-    source: 'MrDoomy',
-    link: 'https://www.mrdoomy.xyz/'
-  },
-  {
     source: 'RevealJS',
     link: 'https://revealjs.com/'
   }
